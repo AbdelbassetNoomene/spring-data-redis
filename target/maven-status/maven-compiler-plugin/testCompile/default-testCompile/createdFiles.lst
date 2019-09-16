@@ -1,0 +1,7 @@
+com\baeldung\spring\data\reactive\redis\template\RedisTemplateListOpsIntegrationTest.class
+com\baeldung\spring\data\reactive\redis\template\RedisTemplateValueOpsIntegrationTest.class
+com\baeldung\spring\data\reactive\redis\template\RedisKeyCommandsIntegrationTest.class
+org\baeldung\SpringContextIntegrationTest.class
+org\baeldung\SpringContextTest.class
+com\baeldung\spring\data\redis\repo\StudentRepositoryIntegrationTest.class
+com\baeldung\spring\data\redis\RedisMessageListenerIntegrationTest.class

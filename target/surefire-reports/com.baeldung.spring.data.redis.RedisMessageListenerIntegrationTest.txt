@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.baeldung.spring.data.redis.RedisMessageListenerIntegrationTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.721 s <<< FAILURE! - in com.baeldung.spring.data.redis.RedisMessageListenerIntegrationTest
+testOnMessage(com.baeldung.spring.data.redis.RedisMessageListenerIntegrationTest)  Time elapsed: 0.118 s  <<< ERROR!
+java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+	at com.baeldung.spring.data.redis.RedisMessageListenerIntegrationTest.testOnMessage(RedisMessageListenerIntegrationTest.java:50)
+
